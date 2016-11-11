@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <A0001>
+            <Filename>pixelrom-zerofltexx-20161110</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Pixel ROM”>https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description=“Get the changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Gapps“>http://209.95.39.164/Gapps/Lollipop/5.0</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit Pixel ROM thread">http://forum.xda-developers.com/oneplus-one/development/rom-slimsaber-bacon-t2858033</XDAUrl>
+	</A0001>
+    </Stable>
+</SlimOTA>
