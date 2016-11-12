@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Pixel ROM”>https://www.androidfilehost.com/?w=files&amp;flid=32351</RomUrl>
+                description="Download Pixel ROM”>https://www.androidfilehost.com/?fid=529152257862680583</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Pixel ROM thread">http://forum.xda-developers.com/oneplus-one/development/rom-slimsaber-bacon-t2858033</XDAUrl>
+                description="Visit Pixel ROM thread">http://forum.xda-developers.com/galaxy-s6/development/rom-pixel-rom-galaxy-s6-15-models-t3498347</XDAUrl>
 	</A0001>
     </Stable>
 </SlimOTA>
